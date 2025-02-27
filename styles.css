@@ -1,0 +1,13 @@
+li{ display: inline;}
+   li.menu{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+    h1{color: antiquewhite; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+    a.menu{
+        background-color: antiquewhite;
+        font-size: 20px;
+        font-weight: bold;
+        text-decoration: none;
+        padding: 3px;
+        margin: 3px;
+        border-radius: 3px;
+    }
+    h3{color: antiquewhite; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
